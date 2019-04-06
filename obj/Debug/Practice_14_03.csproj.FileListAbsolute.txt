@@ -1,0 +1,7 @@
+C:\Users\вава\source\repos\Practice_14_03\bin\Debug\Practice_14_03.exe.config
+C:\Users\вава\source\repos\Practice_14_03\bin\Debug\Practice_14_03.exe
+C:\Users\вава\source\repos\Practice_14_03\bin\Debug\Practice_14_03.pdb
+C:\Users\вава\source\repos\Practice_14_03\obj\Debug\Practice_14_03.csprojAssemblyReference.cache
+C:\Users\вава\source\repos\Practice_14_03\obj\Debug\Practice_14_03.csproj.CoreCompileInputs.cache
+C:\Users\вава\source\repos\Practice_14_03\obj\Debug\Practice_14_03.exe
+C:\Users\вава\source\repos\Practice_14_03\obj\Debug\Practice_14_03.pdb
